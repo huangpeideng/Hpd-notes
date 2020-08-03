@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+logging:
+  file:
+    path: D:/个人文档/log/
+    name: D:/个人文档/log/my-log.log
